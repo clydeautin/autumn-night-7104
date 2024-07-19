@@ -1,0 +1,898 @@
+[
+  {
+      "_id": "5cf5679a915ecad153ab68f7",
+      "allies": [
+          "Cabbage Corp"
+      ],
+      "enemies": [
+          "The "
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/2/2f/Cabbage_merchant.png/revision/latest?cb=20140112200908",
+      "name": "Cabbage merchant",
+      "affiliation": " Cabbage Corp Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab68f2",
+      "allies": [
+          "Aang"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/e/e8/King_Bumi.png/revision/latest?cb=20140106141303",
+      "name": "Bumi (King of Omashu)",
+      "affiliation": " Earth Kingdom Order of the White Lotus"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6934",
+      "allies": [
+          "Earth Kingdom"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/0/08/Fong.png/revision/latest?cb=20130625120143",
+      "name": "Fong",
+      "affiliation": "Earth Kingdom Military"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab694f",
+      "allies": [
+          "Earth Queen"
+      ],
+      "enemies": [],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/3/32/Gun.png/revision/latest?cb=20140730160152",
+      "name": "Gun",
+      "affiliation": "Earth Kingdom government"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6967",
+      "allies": [
+          "Toph Beifong"
+      ],
+      "enemies": [
+          "Kunyo"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/3/32/Ho_Tun.png/revision/latest?cb=20120203051902",
+      "name": "Ho Tun",
+      "affiliation": " Beifong Metalbending Academy Earth Kingdom Team Beifong Yu Dao"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab69fd",
+      "allies": [
+          "Kyoshi Warriors"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/4/42/Oyaji.png/revision/latest?cb=20130819103514",
+      "name": "Oyaji",
+      "affiliation": " Earth Kingdom Kyoshi Island"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6948",
+      "allies": [
+          "Earth Kingdom",
+          "his soldiers"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/d/d9/Gow.png/revision/latest?cb=20140331143005",
+      "name": "Gow",
+      "affiliation": "Earth Kingdom military"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6964",
+      "allies": [
+          "Riley"
+      ],
+      "enemies": [],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/c/c2/Hiroshi.png/revision/latest?cb=20121230120251",
+      "name": "Hiroshi",
+      "affiliation": " Earth Kingdom Unnamed team"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab699f",
+      "allies": [
+          "His "
+      ],
+      "enemies": [
+          "Korra "
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/2/26/Kong.png/revision/latest?cb=20140808213006",
+      "name": "Kong",
+      "affiliation": "Earth Kingdom Air Force"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6957",
+      "allies": [
+          "Aang"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/d/da/Haru.png/revision/latest?cb=20110104010244",
+      "name": "Haru",
+      "affiliation": " Earth Kingdom Hakoda's forces"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a43",
+      "allies": [
+          "Freedom Fighters",
+          "Jet",
+          ""
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/3/3a/Smellerbee.png/revision/latest?cb=20140413234450",
+      "name": "Smellerbee",
+      "affiliation": " Earth Kingdom Freedom Fighters"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a70",
+      "allies": [
+          "Aang"
+      ],
+      "enemies": [
+          "Ozai"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/4/46/Toph_Beifong.png/revision/latest?cb=20131230122047",
+      "name": "Toph Beifong",
+      "affiliation": " Beifong family Earth Kingdom Earth Rumble VI (formerly) Earthen Fire Industries Metalbending Police Force Team Avatar Team Beifong"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab69bf",
+      "allies": [
+          "Onku"
+      ],
+      "enemies": [],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/8/81/Lokai.png/revision/latest?cb=20130911123754",
+      "name": "Lokai",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab68de",
+      "allies": [
+          "His "
+      ],
+      "enemies": [
+          "Korra "
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/1/11/Ba_Sing_Se_airship_captain.png/revision/latest?cb=20140808221400",
+      "name": "Ba Sing Se airship captain",
+      "affiliation": "Earth Kingdom Air Force"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6939",
+      "allies": [
+          "Iroh"
+      ],
+      "enemies": [
+          "Xin Fu"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/a/aa/Fung.png/revision/latest?cb=20140407160126",
+      "name": "Fung",
+      "affiliation": " Earth Kingdom Order of the White Lotus"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6aa7",
+      "allies": [
+          "Than",
+          ""
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/7/76/Ying.png/revision/latest?cb=20140413234455",
+      "name": "Ying",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab69cf",
+      "allies": [
+          "His wife",
+          ""
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/b/b7/Mechanist.png/revision/latest?cb=20140118124602",
+      "name": "Mechanist",
+      "affiliation": " Earth Kingdom Fire Nation (forced; formerly)"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a05",
+      "allies": [
+          "Earth Kingdom"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/e/e2/Grumpy_passport_attendant.png/revision/latest?cb=20140413233809",
+      "name": "Passport attendant",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6aa6",
+      "allies": [
+          "San"
+      ],
+      "enemies": [
+          "Military of the Earth Empire"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/f/f6/Yin.png/revision/latest?cb=20140730175657",
+      "name": "Yin",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab69a6",
+      "allies": [
+          "Baatar Jr. "
+      ],
+      "enemies": [
+          "Red Lotus"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/e/ec/Kuvira.png/revision/latest?cb=20150407233430",
+      "name": "Kuvira",
+      "affiliation": " Earth Empire Earth Kingdom (formerly) Metal Clan (formerly) Zaofu dance troupe (formerly)"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a2d",
+      "allies": [
+          "Yin"
+      ],
+      "enemies": [],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/1/11/Mako_and_Bolin%27s_family_picture.png/revision/latest?cb=20160911093853",
+      "name": "San",
+      "affiliation": " Earth Kingdom United Republic of Nations"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a13",
+      "allies": [
+          "Toph"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/c/c8/Poppy_Beifong.png/revision/latest?cb=20131231180143",
+      "name": "Poppy Beifong",
+      "affiliation": " Beifong family Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab691b",
+      "allies": [
+          "Yu"
+      ],
+      "enemies": [
+          "Katara"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/1/11/Earthbending_academy_teenagers.png/revision/latest?cb=20140317210008",
+      "name": "Earthbending academy teenagers",
+      "affiliation": " Earth Kingdom Master Yu's Earthbending Academy"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab692e",
+      "allies": [
+          "Her husband"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/0/03/Fisherman%27s_wife.png/revision/latest?cb=20130714135417",
+      "name": "Fisherman's wife",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab69c6",
+      "allies": [
+          "Five-Seven-Five Society"
+      ],
+      "enemies": [
+          "Sokka"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/f/f8/Macmu-Ling.png/revision/latest?cb=20140504182010",
+      "name": "Macmu-Ling",
+      "affiliation": " Earth Kingdom Five-Seven-Five Society"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab68f8",
+      "allies": [
+          "Aunt "
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/b/b6/Calm_man.png/revision/latest?cb=20130814093330",
+      "name": "Calm man",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a98",
+      "allies": [
+          "Meng"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/c/c9/Aunt_Wu.png/revision/latest?cb=20130626124117",
+      "name": "Wu (fortuneteller)",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab69d2",
+      "allies": [
+          "Zhao"
+      ],
+      "enemies": [
+          "Aang"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/1/19/Merchant.png/revision/latest?cb=20121024052739",
+      "name": "Merchant",
+      "affiliation": "Earth Kingdom, Zhao"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab698b",
+      "allies": [
+          "Grandma "
+      ],
+      "enemies": [
+          "Sokka"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/4/4a/Juno.png/revision/latest?cb=20121230120716",
+      "name": "Juno",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab69a2",
+      "allies": [
+          "Earth Kingdom",
+          ""
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/5/5e/Kuei.png/revision/latest?cb=20130627084042",
+      "name": "Kuei",
+      "affiliation": " Earth Kingdom government Earth Kingdom Royal Family"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a0a",
+      "allies": [],
+      "enemies": [],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/c/cb/Pet_shop_owner.png/revision/latest?cb=20140422090645",
+      "name": "Pet shop owner",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6958",
+      "allies": [
+          "Aang"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "name": "Haru (games)",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab69af",
+      "allies": [
+          "Toph Beifong"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/a/aa/Lao_Beifong.png/revision/latest?cb=20140317211137",
+      "name": "Lao Beifong",
+      "affiliation": " Beifong family Earth Kingdom Earthen Fire Refinery"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6aab",
+      "allies": [
+          "Earth Kingdom",
+          ""
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "name": "Yuan",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab69f7",
+      "allies": [
+          "Grandma "
+      ],
+      "enemies": [],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/d/de/Onku.png/revision/latest?cb=20120322120145",
+      "name": "Onku",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab68d5",
+      "allies": [
+          "His "
+      ],
+      "enemies": [
+          "Korra "
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/6/6f/Arik.png/revision/latest?cb=20140808184002",
+      "name": "Arik",
+      "affiliation": "Earth Kingdom Air Force"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab68e8",
+      "allies": [
+          "Toph Beifong"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/d/df/The_Big_Bad_Hippo.png/revision/latest?cb=20140317211139",
+      "name": "The Big Bad Hippo",
+      "affiliation": " Earth Kingdom Earth Rumble VI (formerly)"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab69c1",
+      "allies": [
+          "Freedom Fighters"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/e/e7/Longshot.png/revision/latest?cb=20140413233811",
+      "name": "Longshot",
+      "affiliation": " Earth Kingdom Freedom Fighters"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a7c",
+      "allies": [
+          "Haru"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/8/88/Tyro_during_the_invasion.png/revision/latest?cb=20130609164844",
+      "name": "Tyro",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab68df",
+      "allies": [
+          "His "
+      ],
+      "enemies": [
+          "Korra "
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/0/03/Ba_Sing_Se_airship_co-pilot.png/revision/latest?cb=20140808223854",
+      "name": "Ba Sing Se airship co-pilot",
+      "affiliation": "Earth Kingdom Air Force"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab68eb",
+      "allies": [
+          "Earth King"
+      ],
+      "enemies": [
+          "Azula"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/9/9b/Bosco.png/revision/latest?cb=20140517110638",
+      "name": "Bosco",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a69",
+      "allies": [
+          "Earth Kingdom"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/c/c0/Ticket_woman.png/revision/latest?cb=20140417221543",
+      "name": "Ticket woman",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6aaf",
+      "allies": [
+          "Aang"
+      ],
+      "enemies": [
+          "New Ozai Governor"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/6/62/Captain_Yung.png/revision/latest?cb=20130706142814",
+      "name": "Yung (captain)",
+      "affiliation": "Earth Kingdom Army"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a6e",
+      "allies": [
+          "Chin Village",
+          ""
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/2/20/Tong.png/revision/latest?cb=20140215112603",
+      "name": "Tong",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab692d",
+      "allies": [
+          "His wife"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/f/f0/Fisherman.png/revision/latest?cb=20130714140302",
+      "name": "Fisherman",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a9b",
+      "allies": [
+          "Riley"
+      ],
+      "enemies": [],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/4/4b/Yahshi.png/revision/latest?cb=20121024041323",
+      "name": "Yahshi",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab68c8",
+      "allies": [
+          "Royal Earthbender Guards"
+      ],
+      "enemies": [
+          "Chin"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/5/51/46th_Earth_King.png/revision/latest?cb=20130627160441",
+      "name": "46th Earth King",
+      "affiliation": " Earth Kingdom Earth Kingdom Royal Family"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6936",
+      "allies": [
+          "Team Avatar"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/3/33/Forest_spirit.png/revision/latest?cb=20140529055837",
+      "name": "Forest spirit",
+      "affiliation": " Earth Kingdom Spirit World"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6959",
+      "allies": [
+          "Aang"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/f/fc/Haru%27s_mother.png/revision/latest?cb=20140108095709",
+      "name": "Haru's mother",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a53",
+      "allies": [
+          "Roku"
+      ],
+      "enemies": [],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/d/d1/Sud.png/revision/latest?cb=20130110111840",
+      "name": "Sud",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6ab1",
+      "allies": [
+          "Aang"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/b/b0/Zei.png/revision/latest?cb=20140404204805",
+      "name": "Zei",
+      "affiliation": " Ba Sing Se University Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a1d",
+      "allies": [],
+      "enemies": [
+          "Zaheer"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/8/88/Radio_operator.png/revision/latest?cb=20140810160336",
+      "name": "Radio operator",
+      "affiliation": "Earth Kingdom Military"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a36",
+      "allies": [
+          "Gansu"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "name": "Sensu",
+      "affiliation": "Earth Kingdom military"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab68ed",
+      "allies": [],
+      "enemies": [
+          "Zuko"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/9/98/Broadsword_man.png/revision/latest?cb=20130630171553",
+      "name": "Broadsword man",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab68fa",
+      "allies": [
+          "Aang"
+      ],
+      "enemies": [
+          "Canyon crawlers"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/d/db/Canyon_guide.png/revision/latest?cb=20131202201055",
+      "name": "Canyon guide",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab691a",
+      "allies": [
+          "Earth Kingdom"
+      ],
+      "enemies": [
+          "Iroh"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/8/80/Earthbender_captain.png/revision/latest?cb=20130620111830",
+      "name": "Earthbender captain",
+      "affiliation": "Earth Kingdom military"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab699e",
+      "allies": [
+          "Kyoshi Warriors"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/f/f0/Koko.png/revision/latest?cb=20130819093502",
+      "name": "Koko",
+      "affiliation": " Earth Kingdom Kyoshi Island"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a27",
+      "allies": [
+          "Earth Kingdom",
+          ""
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/8/85/Royal_messenger.png/revision/latest?cb=20140510204457",
+      "name": "Royal messenger",
+      "affiliation": "Earth Kingdom, Earth King Kuei"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a56",
+      "allies": [
+          "Earth King"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/a/ad/Sung.png/revision/latest?cb=20140517113730",
+      "name": "Sung",
+      "affiliation": "Earth Kingdom military"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab69d1",
+      "allies": [
+          "Aunt "
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/4/42/Meng.png/revision/latest?cb=20130814090639",
+      "name": "Meng",
+      "affiliation": " Aunt Wu's Fortune Salon Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a64",
+      "allies": [
+          "Ying",
+          ""
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/8/85/Than.png/revision/latest?cb=20140413234452",
+      "name": "Than",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a54",
+      "allies": [
+          "Kyoshi Warriors"
+      ],
+      "enemies": [
+          "Ozai"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/1/14/Suki.png/revision/latest?cb=20130819094354",
+      "name": "Suki",
+      "affiliation": " Earth Kingdom Kyoshi Warriors Team Avatar"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a97",
+      "allies": [
+          "Mako"
+      ],
+      "enemies": [
+          "Kuvira"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/0/0e/King_Wu.png/revision/latest?cb=20141220142035",
+      "name": "Wu",
+      "affiliation": " Earth Kingdom Earth Kingdom Royal Family"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab68ec",
+      "allies": [
+          "Toph"
+      ],
+      "enemies": [
+          "Toph "
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/7/70/The_Boulder.png/revision/latest?cb=20140317195145",
+      "name": "The Boulder",
+      "affiliation": " Earth Kingdom Earth Rumble VI (formerly)"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6980",
+      "allies": [
+          "Zuko "
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/0/08/Jin.png/revision/latest?cb=20140504182006",
+      "name": "Jin",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab696b",
+      "allies": [
+          "Earth Kingdom",
+          ""
+      ],
+      "enemies": [
+          "Team Avatar"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/6/68/Hou-Ting.png/revision/latest?cb=20150209042730",
+      "name": "Hou-Ting",
+      "affiliation": " Earth Kingdom Earth Kingdom government Earth Kingdom Royal Family"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab696d",
+      "allies": [
+          "Earth King"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/5/54/How.png/revision/latest?cb=20130627093056",
+      "name": "How",
+      "affiliation": " Earth Kingdom Army Council of Five"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a0f",
+      "allies": [
+          "Aunt "
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/e/eb/Poi_and_Ping.png/revision/latest?cb=20130814102305",
+      "name": "Poi and Ping",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a63",
+      "allies": [
+          "His mother",
+          ""
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/7/77/Teo.png/revision/latest?cb=20140118125457",
+      "name": "Teo",
+      "affiliation": "Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a44",
+      "allies": [
+          "Freedom Fighters"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/6/65/Sneers.png/revision/latest?cb=20181006212849",
+      "name": "Sneers",
+      "affiliation": " Earth Kingdom Freedom Fighters (formerly) Yu Dao Resistance (formerly)"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6919",
+      "allies": [
+          "Aang"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/c/cd/The_Duke.png/revision/latest?cb=20130706011726",
+      "name": "The Duke",
+      "affiliation": " Earth Kingdom Freedom Fighters (separated) Hakoda's forces"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab697f",
+      "allies": [
+          "Freedom Fighters"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/1/1e/Jet.png/revision/latest?cb=20150324102352",
+      "name": "Jet",
+      "affiliation": " Earth Kingdom Freedom Fighters (formerly)"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6961",
+      "allies": [
+          "Miyuki"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/d/d5/Herbalist.png/revision/latest?cb=20140113140507",
+      "name": "Herbalist",
+      "affiliation": " Herbalist institute Earth Kingdom"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab695d",
+      "allies": [
+          "Xin Fu"
+      ],
+      "enemies": [
+          "Toph"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/0/06/Headhunter.png/revision/latest?cb=20140317211136",
+      "name": "Headhunter",
+      "affiliation": " Earth Kingdom Earth Rumble VI"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6aa5",
+      "allies": [
+          "Earth Kingdom"
+      ],
+      "enemies": [],
+      "name": "Yi Ming",
+      "affiliation": "Earth Kingdom government"
+  },
+  {
+      "_id": "5cf5679a915ecad153ab6a0d",
+      "allies": [
+          "Freedom Fighters"
+      ],
+      "enemies": [
+          "Fire Nation"
+      ],
+      "photoUrl": "https://vignette.wikia.nocookie.net/avatar/images/e/ef/Pipsqueak.png/revision/latest?cb=20130706005357",
+      "name": "Pipsqueak",
+      "affiliation": " Earth Kingdom Freedom Fighters (separated) Hakoda's forces"
+  }
+]
