@@ -1,0 +1,15 @@
+<h1> All members of <%= @affiliation_members.first.affiliation %> </h1>
+
+<p>Fire Nation has <%= @affiliation_members.count %> members</p>
+
+<% @affiliation_top25.each do |member| %>
+  <div class="member">
+    <p>Name: <%= member.name %></p>
+    <p><img src="<%=member.photo %>" alt="Photo Unavailable" /></p>
+    <p>Allies: <%= member.allies.join(', ') %></p>
+    <p>Enemies: <%= member.enemies.join(', ') %></p>
+    <p>Affiliation: <%= member.affiliation %></p>
+    <hr>
+  </div>
+<% end %>
+
